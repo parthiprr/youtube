@@ -22,6 +22,7 @@
 .left-section{
   display: flex;
   align-items: center;
+ 
 }
 .hamburger-menu{
   height: 24px;
@@ -142,6 +143,7 @@
   justify-content: space-between;
   margin-right: 20px;
   flex-shrink: 0;
+  padding-left: 470px;
   
   
 }
